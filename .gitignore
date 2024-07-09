@@ -6,9 +6,6 @@ npm-debug.log
 .vscode/
 .eslintcache
 sites/**/pages/
-umd/
-cjs/
-esm/
 dist/
 packages/arcodesign/tests/coverage
 packages/arcodesign/style/css
